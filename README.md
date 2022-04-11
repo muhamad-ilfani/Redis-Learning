@@ -1,0 +1,1 @@
+# SIMPLE REDIS IN GO
